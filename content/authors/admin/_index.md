@@ -29,15 +29,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Tech. in Computer Science & Engineering
+    institution: Indian Institute of Technology (IIT) Delhi
+    year: 2020
+  - course: B.Tech. in Computer Science & Engineering
+    institution: Indian Institute of Technology (IIT) Delhi
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
