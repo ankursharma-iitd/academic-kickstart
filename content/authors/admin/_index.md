@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: M.Tech. in Computer Science & Engineering
+  - course: M.Tech. in Computer Science
     institution: Indian Institute of Technology (IIT) Delhi
     year: 2020
-  - course: B.Tech. in Computer Science & Engineering
+  - course: B.Tech. in Computer Science
     institution: Indian Institute of Technology (IIT) Delhi
     year: 2019
 
