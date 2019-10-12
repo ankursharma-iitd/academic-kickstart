@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Reinforcement Learning
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
 
 education:
   courses:
@@ -44,16 +46,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:ankursharma.iitd@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: phone
+  icon_pack: fas
+  link: "(+91) 9971060451"
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://linkedin.com/in/ankur-sharma-984166144/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ankursharma-iitd
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/ankurrsharmaa
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/ankur.sharma97/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
