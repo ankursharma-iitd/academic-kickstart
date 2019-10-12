@@ -47,9 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ankursharma.iitd@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: phone
-  icon_pack: fas
-  link: "#contact:(+91)9971060451"
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/ankur-sharma-984166144/
