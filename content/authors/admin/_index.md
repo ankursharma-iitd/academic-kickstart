@@ -14,7 +14,7 @@ role: Data Analyst & Computer Science Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology (IIT) Delhi
+- name: IIT Delhi
   url: "www.iitd.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
