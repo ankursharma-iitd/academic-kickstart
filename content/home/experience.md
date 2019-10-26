@@ -19,14 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Teaching Assistant (TA)"
-  company = "Data Structures & Algorithms (COL 106)"
+  company = "Data Structures & Algorithms (IIT Delhi) "
   company_url = "http://web.iitd.ac.in/~csz188551/COL106_2019/"
-  location = "IIT Delhi"
+  location = "Prof. Subodh Kumar"
   date_start = "2019-07-01"
   date_end = ""
-  description = """ Managed a class of over 350 UG students.
-  Responsibilities include:
-  
+  description = """ Managed a class of over 350 UG students with several duties including:
   * Grading Answer Scripts
   * Designing Assignments
   * Mentoring & Counseling
@@ -34,12 +32,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineering Intern"
+  company = "Microsoft Corp."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Office-365 Team"
+  date_start = "2019-05-01"
+  date_end = "2019-07-01"
+  description = """
+  * Designed an end-to-end contextual add-ins recommender for Outlook Web with quick installation & launch facility
+  * Built a dynamic UI (ReactJS) for real-time add-ins suggestions (for 4 categories) while composing/reading emails
+  * Mentoring & Counseling
+  * Conducting Lab Sessions
+  """
 
 +++
