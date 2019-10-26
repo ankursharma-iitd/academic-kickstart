@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
-  company = "Data Structures (COL 106)"
+  title = "Teaching Assistant (TA)"
+  company = "Data Structures & Algorithms (COL 106)"
   company_url = "http://web.iitd.ac.in/~csz188551/COL106_2019/"
   location = "IIT Delhi"
   date_start = "2019-07-01"
   date_end = ""
-  description = """ Managed a class of over 350 UG students. """
+  description = """ Managed a class of over 350 UG students.
   Responsibilities include:
   
   * Grading Answer Scripts
