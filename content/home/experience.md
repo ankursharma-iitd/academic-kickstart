@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """ Managed a class of over 350 UG students with several duties including:
+
   * Grading Answer Scripts
   * Designing Assignments
   * Mentoring & Counseling
@@ -33,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineering Intern"
-  company = "Microsoft Corp."
+  company = "Microsoft"
   company_url = ""
   location = "Office-365 Team"
   date_start = "2019-05-01"
