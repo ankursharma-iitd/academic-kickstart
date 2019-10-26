@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Analyst & Computer Science Researcher
+role: Data Analyst        Computer Science Researcher
 
 # Organizations/Affiliations
 organizations:
