@@ -42,8 +42,8 @@ date_format = "Jan 2006"
   description = """
   * Designed an end-to-end contextual add-ins recommender for Outlook Web with quick installation & launch facility
   * Built a dynamic UI (ReactJS) for real-time add-ins suggestions (for 4 categories) while composing/reading emails
-  * Mentoring & Counseling
-  * Conducting Lab Sessions
+  * Hosted generic NLP-based recommendation service with REST APIs for smooth extension to other platforms/devices
+  * Awarded a Pre-Placement Offer for impeccable performance during internship; project being fast-tracked to production
   """
 
 +++
